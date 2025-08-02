@@ -26,3 +26,27 @@ This project demonstrates basic Python concepts:
 ## 🚀 How to Run
 
 1. Clone the repository:
+git clone https://github.com/yourusername/quickshop.git
+2. Navigate into the project directory:
+cd quickshop
+3. Run the Python file:
+python quickshop.py
+
+## 🧠 Why This Project
+
+If you're just starting out with Python, this is a perfect hands-on example to understand how variables, user input, control flow, and basic data structures work together in a real scenario.
+
+## 💡 Future Improvements (Optional Ideas)
+
+- Add support for more items
+- Allow users to choose items dynamically
+- Store purchase history in a file
+- Add unit tests for calculation logic
+
+## 📄 License
+
+This project is open source and free to use for learning purposes.
+
+---
+
+Made with ❤️ for learning Python basics.
